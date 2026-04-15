@@ -36,3 +36,4 @@ This plugin may be extended through normal WordPress customization patterns such
 
 ## License
 GPL-2.0-or-later
+

@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: KO GF Leaderboard
- * Description: Gravity Forms leaderboard (bar graph) for a specific choice field, usable as both a merge tag and shortcode.
+ * Description: Gravity Forms leaderboard (bar graph) for a specific choice field, usable as both a merge tag or a shortcode.
  * Author: KO
  * Version: 1.3.5
  */
